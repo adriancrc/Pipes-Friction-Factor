@@ -68,4 +68,14 @@ Questions or suggestions?
 
 ---
 
+## ⭐ Don't forget to rate!
+
+If you found this material useful, please support it by leaving a ⭐⭐⭐⭐⭐ rating on the project page.  
+Your feedback helps improve and keep sharing resources!
+
+[![Rate this project](https://img.shields.io/badge/★★★★★-Rate%20on%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/181746-pipes-friction-factor)
+
+---
+
+
 © 2025 Adrián José Quesada Martínez
